@@ -1,0 +1,22 @@
+.backgroundInput
+{
+	background-color: #ffffcc;
+}
+
+.msgSuccess{
+	background-color:#112b7a;
+	text-align:center;
+	font-size:14px;
+	color:#FFF;
+	padding: 5px;
+	margin-top: 5px;
+}
+
+.msgError{
+	background-color:#BF3030;
+	text-align:center;
+	font-size:14px;
+	color:#FFF;
+	padding: 5px;
+	margin-top: 5px;
+}
